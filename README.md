@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KezhiAdore&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KezhiAdore&layout=compact&show_icons=true&theme=radical)
 
-![KezhiAdore's GitHub stats](https://github-readme-stats.vercel.app/api?username=KezhiAdore&show_icons=true)
+![KezhiAdore's GitHub stats](https://github-readme-stats.vercel.app/api?username=KezhiAdore&show_icons=true&theme=radical)
 
 
 - 🔭 I’m currently working on Xi'an Jiaotong University
