@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yuzhaokz@163.com
 - 💻 My blog is on http://www.kezhi.tech
 
-![decription](https://img.shields.io/badge/language-python-blueyellow)  ![decription](https://img.shields.io/badge/language-c++-orange)
-![decription](https://img.shields.io/badge/tools-vscode-blue)  ![decription](https://img.shields.io/badge/tools-vstudio-darkviolet)
+![decription](https://img.shields.io/badge/Language-Python-blueyellow)  ![decription](https://img.shields.io/badge/Language-C++-orange)
+
+![decription](https://img.shields.io/badge/Tool-VS%20Code-blue)  ![decription](https://img.shields.io/badge/Tool-Visual%20Studio-darkviolet) ![decription](https://img.shields.io/badge/Tool-Pycharm-yellow)
 <img src="https://profile-counter.glitch.me/KezhiAdore/count.svg" align="right">
