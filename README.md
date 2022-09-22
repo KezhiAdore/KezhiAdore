@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Xi'an Jiaotong University
 - 🌱 I’m currently learning Game Theory and Reinforcement Learning
 - 📫 How to reach me: yuzhaokz@163.com
-- 💻 My blog is on http://www.kezhi.tech
+- 💻 My blog is on https://www.kezhi.tech
 
 ![decription](https://img.shields.io/badge/Language-Python-blueyellow)  ![decription](https://img.shields.io/badge/Language-C++-orange)
 
