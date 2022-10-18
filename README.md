@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-
+<img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KezhiAdore&layout=compact&show_icons=true&theme=radical)
+
 
 ![KezhiAdore's GitHub stats](https://github-readme-stats.vercel.app/api?username=KezhiAdore&show_icons=true&theme=radical)
 
