@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 <img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%><img src="http://download.kezhi.tech/meme/genshen_005.gif" width=10%>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KezhiAdore&layout=compact&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KezhiAdore&layout=compact&show_icons=true&theme=radical&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 
 
-![KezhiAdore's GitHub stats](https://github-readme-stats.vercel.app/api?username=KezhiAdore&show_icons=true&theme=radical)
+![KezhiAdore's GitHub stats](https://github-readme-stats.vercel.app/api?username=KezhiAdore&show_icons=true&theme=radical&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 
 
 - 🔭 I’m currently working on Xi'an Jiaotong University
