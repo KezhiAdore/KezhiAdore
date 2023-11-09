@@ -19,7 +19,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yuzhaokz@163.com
 - 💻 My blog is on https://www.kezhi.tech
 
-![decription](https://img.shields.io/badge/Language-Python-blueyellow)  ![decription](https://img.shields.io/badge/Language-C++-orange)
+<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20974%26project%3D%26in%3D0">
 
-![decription](https://img.shields.io/badge/Tool-VS%20Code-blue)  ![decription](https://img.shields.io/badge/Tool-Visual%20Studio-darkviolet) ![decription](https://img.shields.io/badge/Tool-Pycharm-yellow)
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)  ![](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)  ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)  ![](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+
+![](https://img.shields.io/badge/Hexo-0E83CD.svg?style=for-the-badge&logo=Hexo&logoColor=white)  ![](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)  
+
+![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)  ![](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+![](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)  ![](https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white)
+
+
 <img src="https://profile-counter.glitch.me/KezhiAdore/count.svg" align="right">
