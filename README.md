@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [电脑软件配置单](https://www.kezhi.tech/f9af8ec4.html)
+- [Docker-VNC桌面配置](https://www.kezhi.tech/d97606bd.html)
+- [DDPG算法中AC学习率设置对训练效果的影响](https://www.kezhi.tech/46493a5d.html)
+- [聚会互认问题小记](https://www.kezhi.tech/244334e3.html)
+- [2023毕业快乐](https://www.kezhi.tech/48e66169.html)
 <!-- BLOG-POST-LIST:END -->
 
 
