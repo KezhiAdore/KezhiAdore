@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [高斯分布熵的推导](https://www.kezhi.tech/80e25821.html)
 - [电脑软件配置单](https://www.kezhi.tech/f9af8ec4.html)
 - [Docker-VNC桌面配置](https://www.kezhi.tech/d97606bd.html)
 - [DDPG算法中AC学习率设置对训练效果的影响](https://www.kezhi.tech/46493a5d.html)
 - [聚会互认问题小记](https://www.kezhi.tech/244334e3.html)
-- [2023毕业快乐](https://www.kezhi.tech/48e66169.html)
 <!-- BLOG-POST-LIST:END -->
 
 
