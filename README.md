@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [第一篇论文完成后](https://www.kezhi.tech/437bf60f.html)
 - [Policy Optimization](https://www.kezhi.tech/309dbe23.html)
 - [Python脚本+企业微信通知实验结果](https://www.kezhi.tech/4d54863.html)
 - [高斯分布熵的推导](https://www.kezhi.tech/80e25821.html)
 - [电脑软件配置单](https://www.kezhi.tech/f9af8ec4.html)
-- [Docker-VNC桌面配置](https://www.kezhi.tech/d97606bd.html)
 <!-- BLOG-POST-LIST:END -->
 
 
