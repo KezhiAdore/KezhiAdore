@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [浅谈信任](https://kezhi.tech/190fc18.html)
+- [炼丹工业化——mlflow使用简介](https://kezhi.tech/b01892d.html)
 - [第一篇论文完成后](https://kezhi.tech/437bf60f.html)
 - [Policy Optimization](https://kezhi.tech/309dbe23.html)
 - [Python脚本+企业微信通知实验结果](https://kezhi.tech/4d54863.html)
-- [高斯分布熵的推导](https://kezhi.tech/80e25821.html)
-- [电脑软件配置单](https://kezhi.tech/f9af8ec4.html)
 <!-- BLOG-POST-LIST:END -->
 
 
