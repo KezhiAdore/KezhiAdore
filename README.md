@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Impact Of Ac Learning Rate Setting On Training Effect In Ddpg Algorithm.](https://kezhi.tech/en/46493a5d.html)
 - [浅谈信任](https://kezhi.tech/190fc18.html)
+- [Talking About Trust.](https://kezhi.tech/en/190fc18.html)
 - [炼丹工业化——mlflow使用简介](https://kezhi.tech/b01892d.html)
+- [Alchemy Industrialization - Introduction to mlflow.](https://kezhi.tech/en/b01892d.html)
 - [第一篇论文完成后](https://kezhi.tech/437bf60f.html)
-- [Policy Optimization](https://kezhi.tech/309dbe23.html)
 <!-- BLOG-POST-LIST:END -->
 
 
