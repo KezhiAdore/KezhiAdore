@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2024毕业快乐](https://kezhi.tech/35956731.html)
+- [Happy graduation in 2024.](https://kezhi.tech/en/35956731.html)
 - [锦绣太原青年博士行](https://kezhi.tech/35bdcdc0.html)
 - [The magnificent Taiyuan young doctors journey.](https://kezhi.tech/en/35bdcdc0.html)
 - [浅谈信任](https://kezhi.tech/190fc18.html)
-- [Talking About Trust.](https://kezhi.tech/en/190fc18.html)
-- [炼丹工业化——mlflow使用简介](https://kezhi.tech/b01892d.html)
 <!-- BLOG-POST-LIST:END -->
 
 
