@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [一个简单的故事](https://kezhi.tech/a0779111.html)
+- [A simple story.](https://kezhi.tech/en/a0779111.html)
 - [Zotero7插件推荐及下载](https://kezhi.tech/fa40cdb1.html)
 - [Zotero7 plugin recommendations and downloads.](https://kezhi.tech/en/fa40cdb1.html)
 - [为什么我并不常用大语言模型](https://kezhi.tech/a4c87d5f.html)
-- [Why I dont often use large language models.](https://kezhi.tech/en/a4c87d5f.html)
-- [vscode编译Latex配置](https://kezhi.tech/26b82930.html)
 <!-- BLOG-POST-LIST:END -->
 
 
