@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [使用RDP在内网远程游戏思路](https://kezhi.tech/763d29e2.html)
+- [Use RDP to remotely play games on the intranet.](https://kezhi.tech/en/763d29e2.html)
 - [一个简单的故事](https://kezhi.tech/a0779111.html)
 - [A simple story.](https://kezhi.tech/en/a0779111.html)
 - [Zotero7插件推荐及下载](https://kezhi.tech/fa40cdb1.html)
-- [Zotero7 plugin recommendations and downloads.](https://kezhi.tech/en/fa40cdb1.html)
-- [为什么我并不常用大语言模型](https://kezhi.tech/a4c87d5f.html)
 <!-- BLOG-POST-LIST:END -->
 
 
