@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [常用代理配置](https://kezhi.tech/278ab762.html)
+- [Common proxy configuration.](https://kezhi.tech/en/278ab762.html)
 - [使用RDP在内网远程游戏思路](https://kezhi.tech/763d29e2.html)
 - [Use RDP to remotely play games on the intranet.](https://kezhi.tech/en/763d29e2.html)
 - [一个简单的故事](https://kezhi.tech/a0779111.html)
-- [A simple story.](https://kezhi.tech/en/a0779111.html)
-- [Zotero7插件推荐及下载](https://kezhi.tech/fa40cdb1.html)
 <!-- BLOG-POST-LIST:END -->
 
 
