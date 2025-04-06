@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,flask,git,github,docker,vim,md,latex,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=anaconda,py,pytorch,flask,git,github,docker,vim,md,latex,raspberrypi,ubuntu" />
   </a>
   <br>
   <a href="https://skillicons.dev">
