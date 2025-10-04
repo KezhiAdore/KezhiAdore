@@ -42,15 +42,5 @@ Here are some ideas to get you started:
 </p>
 
 
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [陪伴是爱的最高形式](https://kezhi.tech/9e218dda.html)
-- [Companionship is the highest form of love.](https://kezhi.tech/en/9e218dda.html)
-- [研究生指北](https://kezhi.tech/9191ea89.html)
-- [A Guide for Graduate Students.](https://kezhi.tech/en/9191ea89.html)
-- [再见2024，你好2025](https://kezhi.tech/7b768278.html)
-<!-- BLOG-POST-LIST:END -->
-
-
 
 <img src="https://profile-counter.glitch.me/KezhiAdore/count.svg" align="right">
