@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="right">
-  <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20974%26project%3D%26in%3D0">
+  <img href="https://codetime.dev" alt="Custom badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D20974">
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Xi'an Jiaotong University
 - 🌱 I’m currently learning Game Theory and Reinforcement Learning
-- 📫 How to reach me: yuzhaokz@163.com
+- 📫 How to reach me: yuzhaokz@qq.com
 - 💻 My blog is on https://kezhi.tech
 
 ---
