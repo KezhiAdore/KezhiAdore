@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on Xi'an Jiaotong University
-- 🌱 I’m currently learning Game Theory and Reinforcement Learning
+- 🔭 I am currently pursuing my Ph.D. at Xi'an Jiaotong University.
+- 🌱 I’m interested in Reinforcement Learning
 - 📫 How to reach me: yuzhaokz@qq.com
 - 💻 My blog is on https://kezhi.tech
 
